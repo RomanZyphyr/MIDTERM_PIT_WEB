@@ -1,0 +1,1 @@
+(()=>{"use strict";window.IsMrAppEmbed=!0;var e=document.createElement("script");e.type="text/javascript",e.defer="defer",e.src="https://js.monkcommerce.app/mr.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
